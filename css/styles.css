@@ -52,12 +52,12 @@ body {
   letter-spacing: 0.02em;
   
 }
-.naw-item link:hover,
+.naw-item:hover,
 .naw-item link:focus {
   color:(--ocean);
 }
 
-.naw-item link:active {
+.naw-item:active {
   color: var(--ocean);
 }
 .adress {
