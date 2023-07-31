@@ -201,8 +201,8 @@ body {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
-.team-item{
-    background-color: var(--white);
+.team-title{
+    background-color: var(--cloud);
 }
 .footer{
 background-color: var(--navyblue);
