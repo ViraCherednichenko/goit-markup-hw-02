@@ -43,8 +43,8 @@ body {
   list-style: none;
 }
 
-.naw-item{
-  color: var(--na   vyblue);
+.naw-item link {
+  color: #2e2f42;
   font-family: Roboto, sans-serif;
   font-size: 16px;
   font-weight: 500;
