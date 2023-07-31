@@ -180,9 +180,10 @@ body {
   font-family: Roboto, sans-serif;
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.1;
+  line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
+  background-color:var(--cloud);
 }
 .team-subtitle {
   color: var(--navyblue);
