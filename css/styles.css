@@ -211,7 +211,7 @@ body {
 }
 
 .footer-logo span {
-  color:(--navyblue);
+  color:#f4f4fd;
 }
 
 .footer-text {
@@ -221,5 +221,5 @@ body {
   font-weight: 400;
   line-height: 1, 5;
   letter-spacing: 0.32px;
-  background-color:(--navyblue);
+  background-color: var(--navyblue);
 }
