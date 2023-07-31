@@ -89,12 +89,13 @@ body {
 }
 .filter-button {
   color: var(--irish);
-  background: var(--cloud);
+  background-color: var(--cloud);
   font-family: Roboto, sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.64px;
+  text-align: center;
 }
 
 .filter-item button:hover,
