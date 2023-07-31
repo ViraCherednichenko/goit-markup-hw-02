@@ -54,7 +54,7 @@ body {
 }
 .naw-item link:hover,
 .naw-item link:focus {
-  color: var(--ocean);
+  color:(--ocean);
 }
 
 .naw-item link:active {
