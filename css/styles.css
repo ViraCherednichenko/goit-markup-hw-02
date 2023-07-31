@@ -176,6 +176,9 @@ body {
 .team{
     background-color:(--cloud);
 }
+.team-item{
+    background-color: #FFFFFF;
+}
 .team-title {
   color: var(--navyblue);
   text-align: center;
