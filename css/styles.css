@@ -58,7 +58,7 @@ body {
 }
 
 .naw-item:active {
-  color: var(--ocean);
+  color:(--ocean);
 }
 .adress {
   font-style: normal;
