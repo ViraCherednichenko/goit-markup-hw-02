@@ -183,7 +183,7 @@ body {
   line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
-  background-color:(--cloud);
+  background-color:var(--cloud);
 }
 .team-subtitle {
   color: var(--navyblue);
@@ -192,6 +192,8 @@ body {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
+  background-color: var(--white);
+
 }
 .team-text {
   color: var(--slate);
@@ -201,9 +203,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
-.team-title{
-    background-color: var(--cloud);
-}
+
 .footer{
 background-color: var(--navyblue);
 }
