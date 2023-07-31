@@ -174,7 +174,7 @@ body {
   text-transform: capitalize;
 }
 .team{
-    background-color:(--cloud);
+    background-color:#F4F4FD;
 }
 .team-item{
     background-color: #FFFFFF;
