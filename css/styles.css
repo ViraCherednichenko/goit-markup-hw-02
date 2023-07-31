@@ -173,7 +173,9 @@ body {
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
-
+.team{
+    background-color:(--cloud);
+}
 .team-title {
   color: var(--navyblue);
   text-align: center;
@@ -183,7 +185,8 @@ body {
   line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
-  background-color:var(--cloud);
+  background-color: var(--white);
+  
 }
 .team-subtitle {
   color: var(--navyblue);
@@ -192,7 +195,7 @@ body {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
-  background-color: var(--white);
+  
 
 }
 .team-text {
