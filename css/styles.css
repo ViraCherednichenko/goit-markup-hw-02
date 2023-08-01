@@ -144,7 +144,7 @@ hero-button:focus{
   background-color:var(--ocean);
 }
 .hero-button: active{
-  background-color:var(--ocean);
+  background-color: #404BBF;
 }
 
 .advantages-title {
