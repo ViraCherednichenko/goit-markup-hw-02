@@ -148,8 +148,9 @@ body {
 hero-button:focus{
   background:var(--ocean);
 }
+.hero-button:hover,
 .hero-button:active{
-  color:var(--white);
+ 
   background:var(--ocean);
 }
 
