@@ -146,7 +146,6 @@ body {
 }
 .hero-button:hover,
 hero-button:focus{
-  color:var(--white);
   background:var(--ocean);
 }
 .hero-button:active{
