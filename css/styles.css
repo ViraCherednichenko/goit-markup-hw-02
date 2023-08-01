@@ -143,6 +143,9 @@ body {
 hero-button:focus{
   background-color:var(--ocean);
 }
+.hero-button: active{
+  background-color:var(--ocean);
+}
 
 .advantages-title {
   color: var(--navyblue);
