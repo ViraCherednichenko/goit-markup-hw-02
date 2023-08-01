@@ -79,15 +79,7 @@ body {
   color: var(--ocean);
 }
 
-.adress-tel {
-  color: var(--slate);
-  font-family: Roboto, sans-serif;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.32px;
-}
+
 .filter-button {
   color: var(--irish);
   background-color: var(--cloud);
