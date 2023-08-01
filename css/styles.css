@@ -145,8 +145,8 @@ body {
   cursor: pointer;
 }
 .hero-button:hover,
-hero-button:focus{
-background:var(--ocean);
+.hero-button:focus{
+background: var(--ocean);
 }
 
 .advantages-title {
