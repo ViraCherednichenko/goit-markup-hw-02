@@ -146,12 +146,7 @@ body {
 }
 .hero-button:hover,
 hero-button:focus{
-  background:var(--ocean);
-}
-.hero-button:hover,
-.hero-button:active{
- 
-  background:var(--ocean);
+background:var(--ocean);
 }
 
 .advantages-title {
