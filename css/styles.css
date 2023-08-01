@@ -136,7 +136,7 @@ body {
 
 .hero-button {
   color: var(--white);
-  background: var(--irish);
+  background:var(--irish);
   font-family: Roboto, sans-serif;
   font-size: 16px;
   font-weight: 500;
@@ -146,10 +146,12 @@ body {
 }
 .hero-button:hover,
 hero-button:focus{
-  background-color:var(--ocean);
+  color:var(--white);
+  background:var(--ocean);
 }
-.hero-button: active{
-  background-color: #404BBF;
+.hero-button:active{
+  color:var(--white);
+  background:var(--ocean);
 }
 
 .advantages-title {
