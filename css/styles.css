@@ -53,12 +53,12 @@ body {
   
 }
 .naw-item:hover,
-.naw-item link:focus{
-  color:(--ocean);
+.naw-item:focus{
+  color:#404bbf;
 }
 
 .naw-item:active{
-  color: var(--ocean);
+  color:  #404bbf;
 }
 .adress {
   font-style: normal;
