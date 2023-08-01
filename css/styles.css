@@ -132,7 +132,9 @@ body {
   letter-spacing: 1.12px;
   text-align: center;
 }
-
+.hero-button all{
+  cursor: pointer;
+}
 .hero-button {
   color: var(--white);
   background: var(--ocean);
@@ -141,7 +143,7 @@ body {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.64px;
-  cursor: pointer;
+  
 }
 
 .advantages-title {
