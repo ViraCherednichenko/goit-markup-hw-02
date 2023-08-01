@@ -54,6 +54,7 @@ body {
 .naw-item:focus{
   color:#404bbf;
 }
+.naw-item:hover
 .naw-item:active{
   color:  #404bbf;
 }
