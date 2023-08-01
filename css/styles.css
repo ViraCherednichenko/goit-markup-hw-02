@@ -104,17 +104,20 @@ body {
   font-style: normal;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.02px;
+  letter-spacing: 0.02em;
+  color: #2e2f42 ;
 }
-
+.link{
+  text-decoration: none;
+}
 .galary-text {
-  color: var(--slate, #434455);
+  color: var(--slate);
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.02px;
+  letter-spacing: 0.02em;
 }
 .hero{
     background-color:#2e2f42;
